@@ -8,3 +8,4 @@ Requires python 2.7+
 * [boto](http://boto.readthedocs.org)
 
 <br>Specify the the AWS credential of user, which has ability to change DNS zone, in the file before.</br> 
+<br>Type <code>awsroute53.py help</code> to get information about how to use it.</br>
